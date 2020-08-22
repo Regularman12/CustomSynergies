@@ -1,0 +1,16 @@
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\NoPseudosynergies.dll
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\NoPseudosynergies.pdb
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\Assembly-CSharp.Base.mm.dll
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\Assembly-CSharp.dll
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\Blunderbeast.dll
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\Items.dll
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\MakingAnItem.dll
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\MonoMod.Utils.dll
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\UnityEngine.CoreModule.Base.mm.dll
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Andrey\source\repos\NoPseudosynergies\obj\Debug\NoPseudosynergies.csproj.CopyComplete
+C:\Users\Andrey\source\repos\NoPseudosynergies\obj\Debug\NoPseudosynergies.dll
+C:\Users\Andrey\source\repos\NoPseudosynergies\obj\Debug\NoPseudosynergies.pdb
+C:\Users\Andrey\source\repos\NoPseudosynergies\bin\Debug\CustomItems.dll
